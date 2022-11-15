@@ -2,4 +2,8 @@
 https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide/Functions
 2.printEvery3：while loop、for loop增加多位數的寫法
 3.stars：用result打印出特殊符號
+4.isUpperCase：function boolean應用。檢查string內的特定字元。
+""[0]是undefined，所以沒辦法使用toUpperCase()，會發生TypeError，要先判斷str內是否為string。
+5.isAllUpperCase：怎麼檢查string內的每個字元，if搭配for loop使用。
+6.position：判斷有無UpperCase，並且指出第一個UpperCase的position。
 
