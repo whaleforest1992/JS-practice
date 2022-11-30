@@ -1,3 +1,4 @@
+exercise ll
 1.printMany：function、for loop 的基本寫法
 https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide/Functions
 2.printEvery3：while loop、for loop增加多位數的寫法
@@ -6,4 +7,13 @@ https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide/Functions
 ""[0]是undefined，所以沒辦法使用toUpperCase()，會發生TypeError，要先判斷str內是否為string。
 5.isAllUpperCase：怎麼檢查string內的每個字元，if搭配for loop使用。
 6.position：判斷有無UpperCase，並且指出第一個UpperCase的position。
+7.findSmallCount：有兩個input的function，array內數值大小的判斷。
+8.findSmallerTotal：如何把array中的數值相加。利用 sum += arr[i]; 使相加。
+9.findAllSmall：如何用array呈現較小的數。
+
+exercise ll
+1.stras：用兩個for loop追蹤同一個value
+2.makeStars：為了適應.txt文件類型，學習\n的寫法
+
+
 

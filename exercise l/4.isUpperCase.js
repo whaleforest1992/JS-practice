@@ -3,11 +3,7 @@ function isUpperCase(str){
     if(str.length == 0){
         return false;
     }
-    if(str[0] == str[0].toUpperCase()){
-        return true;
-    }else{
-        return false;
-    }
+    return str[0] == str[0].toUpperCase()
 }
 
 console.log(isUpperCase("ABER")); //要記得defined為string
