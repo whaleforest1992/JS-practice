@@ -6,8 +6,8 @@
 //exercise right here is because, many programming languages that deal
 // with files would require you to write codes like this.)
 function makeStars(n){
-    let result = "*";
-    for(let i = 2; i <= n; i ++){
+    let result = "";
+    for(let i = 1; i <= n; i ++){
         let s ="\n";
         for(let j = 0; j < i; j ++){
             s +="*";
@@ -16,4 +16,8 @@ function makeStars(n){
     }
     console.log(result);
 }
-makeStars(3);
+makeStars(-1);
+console.log("--------");
+makeStars(0);
+console.log("--------");
+makeStars(2);

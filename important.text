@@ -12,8 +12,12 @@ https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Guide/Functions
 9.findAllSmall：如何用array呈現較小的數。
 
 exercise ll
-1.stras：用兩個for loop追蹤同一個value
-2.makeStars：為了適應.txt文件類型，學習\n的寫法
+1.stras：用兩個for loop追蹤同一個value。
+2.makeStars：為了適應.txt文件類型，學習\n的寫法。(有在課堂上提問，記得回去看)
+3.stras2：對稱的*圖形，善用for loop的遞減方法。
+4.table：輸入的數與變數之間的關係。
+5.table9to9：99乘法表，for loop的雙套。
+
 
 
 
