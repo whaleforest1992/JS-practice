@@ -17,6 +17,9 @@ exercise ll
 3.stras2：對稱的*圖形，善用for loop的遞減方法。
 4.table：輸入的數與變數之間的關係。
 5.table9to9：99乘法表，for loop的雙套。
+6.fib："遞迴函數"：在一個函式當中再去呼叫它自己。可以去深入瞭解資料結構的演算法。
+7.reverse：使string中的字相反，記得有""才會被認為是string.
+8.swap:toUpperCase()、tpLowerCase()的應用
 
 
 
