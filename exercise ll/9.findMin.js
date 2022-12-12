@@ -9,8 +9,22 @@ function findMin(arr){
     }
     console.log(min);//不能放在return min下面一行，因為在執行return後這個function就結束了
     return min;
-
 }
+
 findMin([1, 2, 5, 6, 99, 4, 5]);
 findMin([]);
 findMin([1, 6, 0, 33, 44, 88, -10]);
+//找最大值
+function findMax(arr){
+    let max = arr[0];
+    for(j = 0; j <= arr.length ; j++){
+        if(arr[j] > max){
+            max = arr[j];
+        }
+    }
+    console.log(max);
+    return max;
+}
+findMax([1, 2, 5, 6, 99, 4, 5]);
+findMax([]);
+findMax([1, 6, 0, 33, 44, 88, -10]);

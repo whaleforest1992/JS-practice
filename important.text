@@ -20,8 +20,11 @@ exercise ll
 6.fib："遞迴函數"：在一個函式當中再去呼叫它自己。可以去深入瞭解資料結構的演算法。
 7.reverse：使string中的字相反，記得有""才會被認為是string.
 8.swap:toUpperCase()、tpLowerCase()的應用
-9.findMin：
+9.findMin：找array中的最小值(最大值)，
+10.findNthMin：回傳array中第n小的(第n大的)數字。
 
-
+Intermediate Exercise
+1.mySort：
+2.
 
 
