@@ -24,7 +24,10 @@ exercise ll
 10.findNthMin：回傳array中第n小的(第n大的)數字。
 
 Intermediate Exercise
-1.mySort：
-2.
+1.mySort：array.indexOf()、array.splice()用法。
+2.isPrime：質數辨認。定義：從1開始到這個數為止，是否有其他數可以將其整除。
+3.confirmEnding：要如何做string的比對。(尚未完成，還有問題)
+4.findDuplicate：找到array中重複的數。除了自己之外，有沒有和我一樣的值。
+5.palindrome：回文：指倒正著念和反著念都相同的句子，前後對稱。
 
 
