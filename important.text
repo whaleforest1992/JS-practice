@@ -33,5 +33,6 @@ Intermediate Exercise
 7.inversePyramid：倒金字塔。等差數列
 
 Intermediate Exercises II
-1.factorPrime：質因數分解
-2.
+1.factorPrime：質因數分解、.substring用法
+2.intersection：兩個array交集的數，要注意兩個array交集的數有沒有和已經放進去的array重複.
+3.flatten：將多維陣列，一次攤平一個，多次或想全部扁平化
