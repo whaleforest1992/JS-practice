@@ -29,5 +29,9 @@ Intermediate Exercise
 3.confirmEnding：要如何做string的比對。(尚未完成，還有問題)
 4.findDuplicate：找到array中重複的數。除了自己之外，有沒有和我一樣的值。
 5.palindrome：回文：指倒正著念和反著念都相同的句子，前後對稱。
+6.pyramid：金字塔，要把空格視為一個字元去想。
+7.inversePyramid：倒金字塔。等差數列
 
-
+Intermediate Exercises II
+1.factorPrime：質因數分解
+2.
